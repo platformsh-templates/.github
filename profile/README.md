@@ -13,3 +13,8 @@ See you there!
 
 </p>
 
+<p align="center">
+    <img src="images/github/git-hub-templates-text.png" alt="Logo">
+</p>
+
+
