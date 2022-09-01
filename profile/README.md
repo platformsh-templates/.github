@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://platform.sh">
-        <img src="https://platform.sh/logos/redesign/Platformsh_logo_black.svg" alt="Logo" width="50%">
+        <img src="images/batcon2022.png" alt="Logo">
     </a>
     <br /><br />
     <h1 align="center">Welcome to Platform.sh!<br /></h1>
