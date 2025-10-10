@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://upsun.com">
-        <img src="https://fixed.docs.upsun.com/images/logo.svg" alt="Logo" width="50%">
+        <img src="https://devcenter.upsun.com/images/dev-center-hero-merger-update.png" alt="Logo" width="50%">
     </a>
     <br /><br />
     <h3 align="center">NOTE: These templates are provided as examples and may not include the latest security patches for dependencies. When deploying a production project, please ensure all dependencies are up-to-date.<br /></h3>
